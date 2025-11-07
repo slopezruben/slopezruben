@@ -58,14 +58,6 @@ _A Go powered Dice room using sockets for DnD and other TTRPGs_
 
 ---
 
--->
-## 📅 Currently Working On
-
-- 📦 Spring Boot applications.
-- 🧪 Redis Server Clone
-
----
-
 ## 🙌 Let's Connect
 
 Feel free to connect and reach out at:
